@@ -38,7 +38,7 @@ Plua difficile
 - Equations
 
 ### Tests
-2 par semestre
+2 par semestre.
 
 #### Écrit - 50%
 - Feuille de note (recto-verso)
